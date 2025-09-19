@@ -6,6 +6,10 @@
 - 使用方式  
 Android: 下载模版文件-浏览器浏览文件-填入收件信息-截图-对应小程序上传即可  
 IOS: 下载模版文件-使用"文件"app进行快速查看-填入收件信息-截图-对应小程序上传即可
-<img width="500" height="1100" alt="image" src="https://github.com/user-attachments/assets/478fc3ef-88cc-49b2-9d38-6ffcbd834e70" />
 
-**如果有用，给个Star吧！**
+**如果有用，给个Star吧！**  
+  
+<img width="500" height="1100" alt="image" src="https://github.com/user-attachments/assets/478fc3ef-88cc-49b2-9d38-6ffcbd834e70" />
+<img width="500" height="1100" alt="IMG_2930" src="https://github.com/user-attachments/assets/d77737b4-e898-4d4e-9020-e31e7f7ba937" />
+
+
